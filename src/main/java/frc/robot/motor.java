@@ -8,7 +8,7 @@ import edu.wpi.first.wpilibj.Jaguar;
 import edu.wpi.first.wpilibj.SpeedController;
 import edu.wpi.first.wpilibj.Talon;
 
-class motor{
+class Motor{
     // final variables for easy switch implimentation 
     /*
      *                   TO-DO:
